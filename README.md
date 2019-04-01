@@ -1,5 +1,3 @@
-# 2018-interactive-web-apps-project-Niosni
-2018-interactive-web-apps-project-Niosni created by GitHub Classroom
+# SPMS - ReactJS web app
 
-https://it-teaching-abo-akademi.github.io/2018-interactive-web-apps-project-Niosni/
-      
+Add portfolios and stocks to keep track of their value, show graphs of the price development.
